@@ -1,4 +1,4 @@
-## ⚡Power BI Repository 📊
+**⚡Power BI Repository 📊**
 
 **➡️Overview**
 
@@ -44,5 +44,7 @@ This repository is licensed under the [MIT License](https://opensource.org/licen
 **➡️Copyright**
 
 All designs and visualizations in this repository are copyrighted to their respective clients. Please do not use or reproduce without permission. ©️
+
+---
 
 **📍Unleash the Power of Data with Power BI.📊🚀**
